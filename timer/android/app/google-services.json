@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "25836323447",
+    "project_id": "todo-9384d",
+    "storage_bucket": "todo-9384d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25836323447:android:d6463a700171b46a903c72",
+        "android_client_info": {
+          "package_name": "com.example.timer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25836323447-4m9b6seegnmbqc77sl0gbc96b6htvkov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDaaY6Ue1PlroNrPcF3f0DHHbnE10RiR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25836323447-4m9b6seegnmbqc77sl0gbc96b6htvkov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
